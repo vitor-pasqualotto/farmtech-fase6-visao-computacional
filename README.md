@@ -1,7 +1,11 @@
 # FarmTech Solutions — Visão Computacional com YOLO (Fase 6)
 
-**Aluno:** Vitor Rodrigues Pasqualotto — RM 570440
-**Curso:** Inteligência Artificial — FIAP
+| Nome | RM |
+|---|---|
+| Luiz Fernando Apolinário Azambuja | 572377 |
+| João Paulo Sá Ribas Santos | 573805 |
+| Davi Rocha Martins de Jesus | 568693 |
+| Vitor Rodrigues Pasqualotto | 570440 |
 
 ## Sobre o projeto
 
