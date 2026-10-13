@@ -28,7 +28,7 @@ Todo o passo a passo, o código executado, os resultados e as conclusões estão
 
 ## Vídeo de demonstração
 
-[Assistir no YouTube](LINK_DO_VIDEO)
+[Assistir no YouTube](https://www.youtube.com/watch?v=USxtZsdblnE)
 
 ## Dataset
 
